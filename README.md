@@ -1,5 +1,5 @@
 # AIV_Healthcare
-A PRESENTATION ON HEALTHCARE DATA
+# A PRESENTATION ON HEALTHCARE DATA
 
 # INTRODUCTION 
 Center for Medicare & Medicaid Services (CMS) assigned unique identification numbers called as National provider identifier(NPI) for covered health care providers with
@@ -20,11 +20,11 @@ Total number of countries providers are from – 23
 Total number of cities providers are from – 20,453
 Total number of services – 2.67Billion
 
-BENEFICIARIES DETAILS : 
+# BENEFICIARIES DETAILS 
 Total no of beneficiaries – 316Million
    Male –136Million
    Female –176Million
 
-CONCLUSION            :
+# CONCLUSION            
 From the given data we can conclude that Providers have submitted around 169.23Billion.There are a total of 316Million beneficiaries in which 132Million are in the age
 gap of 65-74. Majority of beneficiaries are getting both Medicare and Medicaid services. It is around 226.84Million.
