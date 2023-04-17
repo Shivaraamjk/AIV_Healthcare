@@ -1,7 +1,7 @@
 # AIV_Healthcare
 A PRESENTATION ON HEALTHCARE DATA
 
-INTRODUCTION         : 
+# INTRODUCTION 
 Center for Medicare & Medicaid Services (CMS) assigned unique identification numbers called as National provider identifier(NPI) for covered health care providers with
 help of National plan & Provider Enumeration System(NPPES).The National Provider Identifier (NPI) is a Health Insurance Portability and Accountability Act (HIPAA) 
 Administrative Simplification Standard.
@@ -10,7 +10,7 @@ An NPI is a 10 digit numeric identifier which can’t be changed.There exists tw
      Entity Type 1 : Individual
      Entity Type 2 : Organization	
      
-PROVIDER DETAILS     : 
+# PROVIDER DETAILS
 Total Providers – 1.05Million
 Individual  – 9,93,828
 Male Providers – 5,26,138
